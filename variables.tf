@@ -8,7 +8,7 @@ variable "default_tags" {
 }
 
 variable "prefix" {
-  default = "week4"
+  default = "week5"
   type = string
   description = "Name prefix"
 }
